@@ -16,4 +16,6 @@ I'm Isaura, a Developer Full Stack specializing in Front-end and React. In my sp
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imarti01&theme=swift)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imarti01&show_icons=true&theme=transparent)
+
 
