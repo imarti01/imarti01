@@ -17,6 +17,7 @@ I'm Isaura, a Developer Full Stack specializing in Front-end and React. In my sp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarti01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<hr>
 
 <div align="center">
  
