@@ -2,8 +2,8 @@
 
 I'm Isaura, a Developer Full Stack specializing in Front-end and React. In my spare time, I like to cook :stew: and travel :trolleybus:. Currently, my goal is to find a collaborative work environment in which to continue learning and growing as a professional. 
 
-🔭 I’m currently working on: 
- (3 )- Spop (Spotify Clone) 
+🔭 I’m currently working on: <br>
+ (___)- Spop (Spotify Clone) 
  (5 )[front-end](https://github.com/EdgarArcos/Spop-Spotify-)
  (3 )- ListKeeper (todo-list)
  (5 )[front-end](https://github.com/imarti01/todo-list) 
