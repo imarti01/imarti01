@@ -1,6 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Isaura, a Full Stack Developer specializing in Front-end and React. In my spare time, I like to cook :stew: and travel :trolleybus:. Currently, my goal is to find a collaborative work environment in which to continue learning and growing as a professional. 
+I'm Isaura, a Full Stack Developer specializing in Front-end and React. 
+
+In my spare time, I like to cook :stew: and travel :trolleybus:. 
 
 🔭 I’m currently working on: 
    *  Spop (Spotify Clone) 
